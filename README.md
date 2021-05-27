@@ -2,7 +2,7 @@
 
  Contributors: Akar Singh, Nathan Rinker
 
- Site URL: https://njrinker.github.io/Lab9/index.html
+ Site URL: https://njrinker.github.io/Lab9/
 
  Screenshot of TrackJS working:
 
